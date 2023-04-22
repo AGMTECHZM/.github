@@ -1,4 +1,4 @@
-### Welcome 👋
+### Hi there 👋
 
 <!--
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About AGMTECH ENTERPRISE :
+### 😄About AGMTECH ENTERPRISE :
 
 ## ⚡ AGMTECH ENTERPRISE is a leading provider of photocopying, document preparation, and other related services. Our company offers a wide range of services to meet the needs of businesses and individuals alike, including ISIC 8219 photocopying, document preparation services, ISIC 9000 Creative Arts and other Entertainment activities, and ISIC 6202 Computer Consulting and Computer Facilities Management Activities. <br>
 
@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
-		
+		<td>
+			<a href="http://www.agmtech.cf">
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+			</a>
+		</td>
 		<td>
 			<a href="https://www.linkedin.com/company/agmtechnology">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
